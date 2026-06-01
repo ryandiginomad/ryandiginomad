@@ -2,6 +2,13 @@
 
 Full-stack developer specializing in Next.js, Spring Boot & Shopify, based in Taiwan.
 
+## Open-source contributions
+
+Recent pull requests merged into well-known repositories by their maintainers:
+
+- **[PostHog/posthog-js #3599](https://github.com/PostHog/posthog-js/pull/3599)** — Exposed UUID v7 generation and cookie helpers from `@posthog/core` so they can be reused across PostHog's SDKs.
+- **[Shopify/theme-tools #1215](https://github.com/Shopify/theme-tools/pull/1215)** — Fixed Liquid tag/filter doc warnings rendering on the wrong line on hover in the language server.
+
 ## Tech Stack
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
