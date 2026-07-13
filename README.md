@@ -6,6 +6,7 @@ Software engineer building commerce platforms. Taipei · Open to remote.
 
 **Merged**
 
+- [vendurehq/vendure #4945](https://github.com/vendurehq/vendure/pull/4945) — Fix the core `EntityHydrator` silently dropping relations on order lines that share a product variant.
 - [vendurehq/vendure #4886](https://github.com/vendurehq/vendure/pull/4886) — Fix a config-arg id-codec asymmetry in the core server that silently cleared a promotion's customer group on save.
 - [woocommerce/woocommerce #65731](https://github.com/woocommerce/woocommerce/pull/65731) — Migrate offline payment settings forms to `@wordpress/dataviews` DataForm.
 - [Shopify/theme-tools #1215](https://github.com/Shopify/theme-tools/pull/1215) — Keep Liquid tag/filter doc warnings on their own line on hover in the language server.
