@@ -14,6 +14,7 @@ Software engineer building commerce platforms. Taipei · Open to remote.
 
 **In review**
 
+- [vendurehq/vendure #4986](https://github.com/vendurehq/vendure/pull/4986) — Fix the core `EntityHydrator` failing to load an array relation that is present on some elements but missing from others (e.g. later order lines).
 - [vitest-dev/vitest #10707](https://github.com/vitest-dev/vitest/pull/10707) — Point the ESM namespace spy error to the module-mocking docs so Node users aren't sent to browser-mode guidance.
 - [Shopify/theme-tools #1218](https://github.com/Shopify/theme-tools/pull/1218) — Surface orphaned theme files on startup in the VS Code extension.
 - [Shopify/theme-tools #1217](https://github.com/Shopify/theme-tools/pull/1217) — Code actions to disable a theme check for a line or a whole file.
