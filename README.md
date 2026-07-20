@@ -24,6 +24,7 @@ Software engineer building commerce platforms. Taipei · Open to remote.
 ## Projects
 
 - [oidc-footguns](https://github.com/ryandiginomad/oidc-footguns) — A correct-by-default OAuth 2.0 / OIDC client in Go, with the common footguns documented and defended (PKCE, state, nonce, RFC 9207 mix-up, id_token verification, token-at-rest).
+- [saga-footguns](https://github.com/ryandiginomad/saga-footguns) — A correct-by-default saga / distributed-transaction orchestrator in Go, with the classic footguns documented and defended as naive-breaks/correct-fixed test pairs (idempotent retry, lost/partial compensation, transactional outbox, compensation-can-fail), including crash-recovery.
 
 Go · Java · Spring Boot · TypeScript · React · Next.js · Shopify · WooCommerce
 
